@@ -18,15 +18,24 @@ Alibaba
 
 
 
-
 ## [Methods](#content)
 
-### [Hyperbolic Shallow Model](#content)
+### [Distribution-based embeddings](#content)
 
 1. [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417), ICML 2018 \
 *Maximilian Nickel, Douwe Kiela*
 
-1. [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), NeurIPS 2017 \
+
+### [Region-based embeddings](#content)
+
+1. [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417), ICML 2018 \
 *Maximilian Nickel, Douwe Kiela*
+
+
+### [Manifold-based embeddings](#content)
+
+1. [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417), ICML 2018 \
+*Maximilian Nickel, Douwe Kiela*
+
 
  
